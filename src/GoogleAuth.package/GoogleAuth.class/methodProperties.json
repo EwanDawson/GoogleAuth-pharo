@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accessToken" : "BradenShepherdson 7/14/2018 08:53",
+		"authenticateFor:" : "BradenShepherdson 7/14/2018 09:16",
+		"clientId:" : "BradenShepherdson 7/12/2018 16:22",
+		"clientSecret:" : "BradenShepherdson 7/12/2018 16:23",
+		"generateVerifier" : "BradenShepherdson 7/12/2018 14:10",
+		"landingPage" : "BradenShepherdson 7/12/2018 16:06",
+		"needRefresh" : "BradenShepherdson 7/14/2018 08:54",
+		"redeemCode" : "BradenShepherdson 7/14/2018 08:47",
+		"refresh" : "BradenShepherdson 7/14/2018 09:03",
+		"urlFor:" : "BradenShepherdson 7/13/2018 10:16" } }

@@ -1,0 +1,20 @@
+{
+	"category" : "GoogleAuth",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BradenShepherdson 7/14/2018 09:15",
+	"instvars" : [
+		"clientId",
+		"clientSecret",
+		"authCode",
+		"accessToken",
+		"refreshToken",
+		"expiry",
+		"verifier" ],
+	"name" : "GoogleAuth",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+(name 'GoogleAuth-BradenShepherdson.1' message 'Initial version of Google OAuth 2 protocol.Error handling is minimal, but it works correctly if you supply the right data.' id '23515f64-be1a-4b6d-89e2-be0991f477b4' date '14 July 2018' time '10:02:39.474848 am' author 'BradenShepherdson' ancestors () stepChildren ())
